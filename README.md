@@ -17,7 +17,8 @@ This project leverages **Python** for cleaning, analyzing, and visualizing E-com
 
 * **Source**: Kaggle / E-commerce sales dataset
 * **File**: `ecommerce_sales.csv`
-The dataset contains transaction-level details of orders placed on the platform. Key columns include: Order ID, Product, Quantity Ordered, Price Each, Order Date, Purchase Address, Month.
+The dataset contains transaction-level details of orders placed on the platform.
+Key columns include: Order ID, Product, Quantity Ordered, Price Each, Order Date, Purchase Address, Month.
 
 ## 📊 Methodology
 
